@@ -49,8 +49,6 @@ $${\color{#f0240e}TheㅤSmallㅤBird’sㅤbeakㅤwhispered,ㅤendlessly…}$$
 <td>
   <p align="center">
 $${\color{#00eadb}TheㅤLongㅤBird’sㅤarmsㅤconcealedㅤtime.}$$
-  <br>
-
 <p align="right">
 <br>
   <p align="center">
