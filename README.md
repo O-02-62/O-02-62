@@ -15,7 +15,7 @@
 <td>
   <br>
   <p align="center">
-$${\color{#f0240e}LittleㅤBirdㅤdecidedㅤtoㅤpunishㅤbadㅤcreaturesㅤwithㅤhisㅤbeak.}$$
+$${\color{#f0240e}TheㅤSmallㅤBird’sㅤbeakㅤwhispered,ㅤendlessly…}$$
   <br>
 　　
     <br>
@@ -48,9 +48,7 @@ $${\color{#f0240e}LittleㅤBirdㅤdecidedㅤtoㅤpunishㅤbadㅤcreaturesㅤwith
 <p align="right">
 <td>
   <p align="center">
-$${\color{#00eadb}LongㅤBirdㅤweighedㅤtheㅤsinsㅤofㅤcreaturesㅤthatㅤenterㅤtheㅤforestㅤtoㅤkeepㅤpeace.}$$
-   <br>
-    $${\color{#00eadb}LongㅤBird'sㅤscalesㅤcouldㅤmeasureㅤeveryㅤsins,ㅤandㅤwereㅤfairㅤandㅤjust.}$$
+$${\color{#00eadb}TheㅤLongㅤBird’sㅤarmsㅤconcealedㅤtime.}$$
   <br>
 
 <p align="right">
@@ -87,9 +85,7 @@ $${\color{#00eadb}LongㅤBirdㅤweighedㅤtheㅤsinsㅤofㅤcreaturesㅤthatㅤe
 <td>
   <br>
   <p align="center">
-$${\color{#fcf330}BigㅤBird,ㅤwithㅤhisㅤmanyㅤeyes,ㅤwatchedㅤoverㅤtheㅤforestㅤtoㅤseekㅤtrespassers.}$$
-  <br>
- $${\color{#fcf330}BigㅤBird'sㅤeyesㅤcanㅤseeㅤveryㅤfar,ㅤandㅤthingsㅤweㅤcan'tㅤsee.}$$
+$${\color{#fcf330}TheㅤBigㅤBird’sㅤeyesㅤimprisonedㅤlight.}$$
   <br>
 　　
     <br>
