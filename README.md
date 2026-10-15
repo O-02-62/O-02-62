@@ -15,11 +15,11 @@
 <td>
   <br>
   <p align="center">
-$${\color{#fcf330}Little Bird decided to punish bad creatures with his beak.}$$
+$${\color{#f0240e}Little Bird decided to punish bad creatures with his beak.}$$
   <br>
 　　
     <br>
-    <div align="center">
+  <p align="center">
     $${\color{#00eadb}  ㅤyangㅤ/ㅤbryceㅤ/ㅤillu ㅤ}$$
     <br>
       $${\color{#f0240e} ㅤ ㅤheㅤ/ㅤxe ㅤㅤ}$$
@@ -30,7 +30,6 @@ $${\color{#fcf330}Little Bird decided to punish bad creatures with his beak.}$$
     <br>
   </tr>
   </td>
-  </div>
   </details>
 <br>
 <br>
@@ -58,7 +57,7 @@ $${\color{#00eadb}Long Bird weighed the sins of creatures that enter the forest 
 
 <p align="right">
 <br>
-    <div align="center">
+  <p align="center">
     $${\color{#f0240e}  ㅤinterests ㅤ}$$
     <br>
       $${\color{#fcf330} ㅤ ㅤprojectㅤmoon , hetalia ㅤ}$$
@@ -72,7 +71,6 @@ $${\color{#00eadb}Long Bird weighed the sins of creatures that enter the forest 
     <br>
   </tr>
   </td>
-  </div>
   </details>
 <br>
   <br>
@@ -91,13 +89,13 @@ $${\color{#00eadb}Long Bird weighed the sins of creatures that enter the forest 
 <td>
   <br>
   <p align="center">
-$${\color{#f0240e}Big Bird, with his many eyes, watched over the forest to seek trespassers.}$$
+$${\color{#fcf330}Big Bird, with his many eyes, watched over the forest to seek trespassers.}$$
   <br>
- $${\color{#f0240e}Big Bird's eyes can see very far, and things we can't see.}$$
+ $${\color{#fcf330}BigㅤBird'sㅤeyesㅤcanㅤseeㅤveryㅤfar,ㅤandㅤthingsㅤweㅤcan't see.}$$
   <br>
 　　
     <br>
-    <div align="center">
+  <p align="center">
     $${\color{#00eadb}  ㅤlmkㅤwhatㅤto ㅤ}$$
     <br>
       $${\color{#f0240e} ㅤ ㅤputㅤhereㅤiㅤran ㅤㅤ}$$
@@ -108,7 +106,6 @@ $${\color{#f0240e}Big Bird, with his many eyes, watched over the forest to seek 
     <br>
   </tr>
   </td>
-  </div>
   </details>
 <br>
 <br>
