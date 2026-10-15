@@ -7,7 +7,7 @@
 </p>
 
 <br>
-<p align="center"><img src="https://static.wikia.nocookie.net/lobotomycorp/images/5/5a/Small_Beak-1_Full_blood.gif/revision/latest?cb=20230908104415"  align="left" width="25%" /></p>
+<p align="center"><img src="https://static.wikia.nocookie.net/lobotomycorp/images/5/5a/Small_Beak-1_Full_blood.gif/revision/latest?cb=20230908104415"  align="left" width="30%" /></p>
 </p>
 
   
@@ -43,7 +43,7 @@ $${\color{#f0240e}LittleㅤBirdㅤdecidedㅤtoㅤpunishㅤbadㅤcreaturesㅤwith
 
 </p>
 <br>
-<p align="center"><img src="https://static.wikia.nocookie.net/lobotomycorp/images/1/18/Long_Arms-1_Full_blood.gif/revision/latest?cb=20230908104417"  align="right" width="25%" /></p>
+<p align="center"><img src="https://static.wikia.nocookie.net/lobotomycorp/images/1/18/Long_Arms-1_Full_blood.gif/revision/latest?cb=20230908104417"  align="right" width="30%" /></p>
 　　
 <p align="right">
 <td>
@@ -79,7 +79,7 @@ $${\color{#00eadb}LongㅤBirdㅤweighedㅤtheㅤsinsㅤofㅤcreaturesㅤthatㅤe
 ˚₊‧꒰ა . ——— ˗ˏˋ ✮ ˎˊ˗ ——— ˖ ໒꒱ ‧₊˚
 </p>
 <br>
-<p align="center"><img src="https://static.wikia.nocookie.net/lobotomycorp/images/8/88/Big_Eyes-1_Full_blood.gif/revision/latest?cb=20230908104417"  align="left" width="25%" /></p>
+<p align="center"><img src="https://static.wikia.nocookie.net/lobotomycorp/images/8/88/Big_Eyes-1_Full_blood.gif/revision/latest?cb=20230908104417"  align="left" width="30%" /></p>
 </p>
 
   
