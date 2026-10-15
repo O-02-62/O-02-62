@@ -15,16 +15,16 @@
 <td>
   <br>
   <p align="center">
-$${\color{#f0240e}Little Bird decided to punish bad creatures with his beak.}$$
+$${\color{#f0240e}LittleㅤBirdㅤdecidedㅤtoㅤpunishㅤbadㅤcreaturesㅤwithㅤhisㅤbeak.}$$
   <br>
 　　
     <br>
   <p align="center">
-    $${\color{#00eadb}  ㅤyangㅤ/ㅤbryceㅤ/ㅤillu ㅤ}$$
+    $${\color{#f0240e}  ㅤyangㅤ/ㅤbryceㅤ/ㅤillu ㅤ}$$
     <br>
       $${\color{#f0240e} ㅤ ㅤheㅤ/ㅤxe ㅤㅤ}$$
     <br>
-      $${\color{#fcf330} ㅤcertifiedㅤfloorpisser ㅤ}$$
+      $${\color{#f0240e} ㅤcertifiedㅤfloorpisser ㅤ}$$
       <br>
 　　
     <br>
@@ -50,23 +50,23 @@ $${\color{#f0240e}Little Bird decided to punish bad creatures with his beak.}$$
 <p align="right">
 <td>
   <p align="center">
-$${\color{#00eadb}Long Bird weighed the sins of creatures that enter the forest to keep peace.}$$
+$${\color{#00eadb}LongㅤBirdㅤweighedㅤtheㅤsinsㅤofㅤcreaturesㅤthatㅤenterㅤtheㅤforestㅤtoㅤkeepㅤpeace.}$$
    <br>
-    $${\color{#00eadb}Long Bird's scales could measure every sins, and were fair and just.}$$
+    $${\color{#00eadb}LongㅤBird'sㅤscalesㅤcouldㅤmeasureㅤeveryㅤsins,ㅤandㅤwereㅤfairㅤandㅤjust.}$$
   <br>
 
 <p align="right">
 <br>
   <p align="center">
-    $${\color{#f0240e}  ㅤinterests ㅤ}$$
+    $${\color{#00eadb}  ㅤinterests ㅤ}$$
     <br>
-      $${\color{#fcf330} ㅤ ㅤprojectㅤmoon , hetalia ㅤ}$$
+      $${\color{#00eadb} ㅤ ㅤprojectㅤmoonㅤ,ㅤhetalia ㅤ}$$
     <br>
-      $${\color{#00eadb} ㅤmilgram , roblox ㅤ}$$
+      $${\color{#00eadb} ㅤmilgramㅤ,ㅤroblox ㅤ}$$
         <br>
-      $${\color{#f0240e} ㅤ ㅤtouhouㅤproject , saihateㅤstationㅤㅤ}$$
+      $${\color{#00eadb} ㅤ ㅤtouhouㅤprojectㅤ,ㅤsaihateㅤstationㅤㅤ}$$
       <br>
-       $${\color{#fcf330} ㅤ++ㅤmore ㅤ}$$
+       $${\color{#00eadb} ㅤ++ㅤmore ㅤ}$$
 　　
     <br>
   </tr>
@@ -89,16 +89,16 @@ $${\color{#00eadb}Long Bird weighed the sins of creatures that enter the forest 
 <td>
   <br>
   <p align="center">
-$${\color{#fcf330}Big Bird, with his many eyes, watched over the forest to seek trespassers.}$$
+$${\color{#fcf330}BigㅤBird,ㅤwithㅤhisㅤmanyㅤeyes,ㅤwatchedㅤoverㅤtheㅤforestㅤtoㅤseekㅤtrespassers.}$$
   <br>
- $${\color{#fcf330}BigㅤBird'sㅤeyesㅤcanㅤseeㅤveryㅤfar,ㅤandㅤthingsㅤweㅤcan't see.}$$
+ $${\color{#fcf330}BigㅤBird'sㅤeyesㅤcanㅤseeㅤveryㅤfar,ㅤandㅤthingsㅤweㅤcan'tㅤsee.}$$
   <br>
 　　
     <br>
   <p align="center">
-    $${\color{#00eadb}  ㅤlmkㅤwhatㅤto ㅤ}$$
+    $${\color{#fcf330}  ㅤlmkㅤwhatㅤto ㅤ}$$
     <br>
-      $${\color{#f0240e} ㅤ ㅤputㅤhereㅤiㅤran ㅤㅤ}$$
+      $${\color{#fcf330} ㅤ ㅤputㅤhereㅤiㅤran ㅤㅤ}$$
     <br>
       $${\color{#fcf330} ㅤoutㅤofㅤideas ㅤ}$$
       <br>
@@ -116,4 +116,4 @@ $${\color{#fcf330}Big Bird, with his many eyes, watched over the forest to seek 
 
 
 <p align="center">
-$${\color{#f0240e}made by anni!! (˶˃ ᗜ ˂˶)}$$
+$${\color{#fda80a}madeㅤbyㅤanni,ㅤtheㅤonlyㅤfirebirdㅤfanㅤeverㅤ(˶˃ ᗜ ˂˶)}$$
