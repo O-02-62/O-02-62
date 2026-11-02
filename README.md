@@ -1,4 +1,4 @@
-# *A long time ago, in a warm and dense forest lived three happy birds.*
+*A long time ago, in a warm and dense forest lived three happy birds.*
 
 <p align="center">
 <img src="https://static.wikia.nocookie.net/lobotomycorp/images/1/1d/Gate-3_three_lights.gif/revision/latest?cb=20230922165629" width="40%" />
